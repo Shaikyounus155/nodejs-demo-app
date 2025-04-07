@@ -1,0 +1,16 @@
+// Importing the http module to create a server
+const http = require('http');
+
+// Creating a server that listens on port 3000
+const server = http.createServer((req, res) => {
+  // Setting the response headers
+  res.writeHead(200, { 'Content-Type': 'text/plain' });
+  
+  // Sending the response
+  res.end('Welcome to Elevate Labs');
+});
+
+// The server listens on port 3000
+server.listen(3000, () => {
+  console.log('Server is running on http://localhost:3000');
+});
