@@ -102,10 +102,28 @@ STEP-9:  **Finally Deployed website with public IP and port number**.
 http://<Jenkins-public-ip:3000\>
 
 
+![WhatsApp Image 2025-04-07 at 14 23 58_16eec7e9](https://github.com/user-attachments/assets/8773cecd-7c32-4b55-bb9c-07dfe57f6366)
 
 
+![WhatsApp Image 2025-04-07 at 14 23 57_a971bc14](https://github.com/user-attachments/assets/ef8a03e7-83df-43d7-aca3-419188855f7e)
 
 
+![WhatsApp Image 2025-04-07 at 14 23 59_b90dd1c4](https://github.com/user-attachments/assets/96e3f4ba-2a5a-459e-8407-175044837544)
+
+
+![WhatsApp Image 2025-04-07 at 14 23 57_ad2f17d2](https://github.com/user-attachments/assets/039943e5-5532-4cd0-bdd8-43a5077babf7)
+
+
+![WhatsApp Image 2025-04-07 at 14 23 58_a698d2c1](https://github.com/user-attachments/assets/da1030c0-146a-45e4-8cff-1e43c98f6718)
+
+
+![WhatsApp Image 2025-04-07 at 14 23 58_663be57f](https://github.com/user-attachments/assets/daee48ac-4d07-48b7-94a4-75fdd8b6f3f5)
+
+
+![WhatsApp Image 2025-04-07 at 15 02 31_94b2749f](https://github.com/user-attachments/assets/1da4b5b0-b408-44e0-bfd8-9062967ed60e)
+
+
+![WhatsApp Image 2025-04-07 at 14 55 22_691ec496](https://github.com/user-attachments/assets/dda3535e-fbe0-4a00-8580-b92787224c1d)
 
 
 
