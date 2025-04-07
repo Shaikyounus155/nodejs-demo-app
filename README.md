@@ -1,6 +1,6 @@
 # workflow
 TASK 1: Automate Code Deployment Using CI/CD Pipeline (GitHub Actions)
-•	Objective: Set up a CI/CD pipeline to build and deploy a web app.
+• Objective: Set up a CI/CD pipeline to build and deploy a web app.
 In this project, we leverage Jenkins to create a robust CI/CD pipeline that integrates tools like Docker,  and OWASP Dependency Check to deliver secure and high-quality software.
 Tools used:
 1.	GitHub
@@ -67,10 +67,20 @@ STEP-3:**Install Docker & GIT**
 
 STEP-4: **Install the following dependencies on Jenkins**
 1.	NodeJS
+	![image](https://github.com/user-attachments/assets/dae8ad65-c4c8-47f7-a91a-dde253511acc)
+
 2.	OWASP Dependency-Check
+
+	![image](https://github.com/user-attachments/assets/b105f586-803d-44e1-a4aa-bc4629de17d7)
+
 3.	Docker Pipeline
 
-STEP-5: **Integrate all the tools to Jenkins**
+
+STEP-5: **Integrate all the tools to Jenkins** 
+with  suggested plugin needed to jenkins pipeline.
+1. JDK-17
+2. Node.js
+3. Dependency-Check installations for jenkins
 
 STEP-6: **Add DockerHub Credentials**
 Goto Jenkins Dashboard → Manage Jenkins → Credentials → System → Global credentials (unrestricted) → Add Username and password
@@ -81,6 +91,7 @@ credentials id : docker-password
 STEP-7: **Create a Jenkins Job**
 Goto Jenkins Dashboard create a job as My-Deployment Name, select pipeline and click on it.
 We write the pipeline then check the pipe line with run in the Jenkins it show that updates any errors in the pipeline through the plugin name Pipeline stage view in  Jenkins pipeline.
+
  
 STEP-8: **Docker hub registry image**
 Pull the docker image from dockerHub 
