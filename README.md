@@ -89,7 +89,7 @@ Image Name : Nodejs
 To docker containers to lite weight the application and  balancing the traffic of containers.
 
 STEP-9:  **Finally Deployed website with public IP and port number**.
-http://<Jenkins-public-ip:8080\>
+http://<Jenkins-public-ip:3000\>
 
 
 
