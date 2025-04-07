@@ -44,10 +44,9 @@ STEP-1:**Launch EC2 Instance with below Configurations**
 2.	Instance Type: T2.small
 3.	EBS Volume : 5+ GB
 4.	Security Groups : All Traffic
-5.	
+ 
 STEP-2:**Install Jenkins**
-The source code to install Jenkins from official Documentation
- of Jenkins
+The source code to install Jenkins from official Documentation of Jenkins
  (https://www.jenkins.io/doc/)
 #sudo wget -O /etc/yum.repos.d/jenkins.repo
  https://pkg.jenkins.io/redhat-stable/jenkins.repo
